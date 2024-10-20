@@ -28,6 +28,7 @@ Then, neither this vscode protocol link is clickable, nor is its hyperlink versi
 
 But by adding the redirector, you can make it clickable : 
 - https://intradeus.github.io/http-protocol-redirector?r=vscode://ms-vscode.remote-repositories/open?url=https://github.com/intradeus/http-protocol-redirector
+- https://itron-legends.github.io/http-protocol-redirector?r=cloudstreamrepo://
 - [hyperlink version](https://intradeus.github.io/http-protocol-redirector?r=vscode://ms-vscode.remote-repositories/open?url=https://github.com/intradeus/http-protocol-redirector)
 
 ## Watch out
